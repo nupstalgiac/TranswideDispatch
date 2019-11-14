@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "437548312142",
+    "firebase_url": "https://cementapplication.firebaseio.com",
+    "project_id": "cementapplication",
+    "storage_bucket": "cementapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437548312142:android:5cc9f11c855596c986051f",
+        "android_client_info": {
+          "package_name": "com.xyz.logistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437548312142-6rse0mjjko0m576o5gmgjma0h44tgogl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jBk53WiNGT_3X6NJSAWwQcB7_3r3BSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437548312142-6rse0mjjko0m576o5gmgjma0h44tgogl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437548312142:android:1be9e5913ee6e8f686051f",
+        "android_client_info": {
+          "package_name": "transwide.dev.dispatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437548312142-3vo9mftilg280qgr7poif993j4ecbp03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "transwide.dev.dispatch",
+            "certificate_hash": "e69f0caf58d901d0569655f02d63db9ca9f2da72"
+          }
+        },
+        {
+          "client_id": "437548312142-6rse0mjjko0m576o5gmgjma0h44tgogl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jBk53WiNGT_3X6NJSAWwQcB7_3r3BSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437548312142-6rse0mjjko0m576o5gmgjma0h44tgogl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437548312142:android:9e389303d65ca84586051f",
+        "android_client_info": {
+          "package_name": "transwide.dev.dispatchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437548312142-v1ok01vbbl7bn46g3e51uruo5m92cuq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "transwide.dev.dispatchapp",
+            "certificate_hash": "e69f0caf58d901d0569655f02d63db9ca9f2da72"
+          }
+        },
+        {
+          "client_id": "437548312142-6rse0mjjko0m576o5gmgjma0h44tgogl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jBk53WiNGT_3X6NJSAWwQcB7_3r3BSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437548312142-6rse0mjjko0m576o5gmgjma0h44tgogl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
